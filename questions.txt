@@ -1,0 +1,16 @@
+What is the instructor email?
+What is the instructor phone number?
+Where is the instructor office located?
+What are the office hours?
+What are the prerequisites for this course?
+What is the late submission policy?
+Are late assignments accepted?
+What are the textbooks for this course?
+What are the required textbooks?
+What are the recommended textbooks?
+What is the expected workload in hours per week?
+In the reading handout, what does fork() do?
+In the reading handout, what are the buffering modes mentioned?
+In the reading handout, why does redirecting output to a file change the behavior/output?
+What is Moore’s Law?
+Why is parallel processing important according to the notes?
