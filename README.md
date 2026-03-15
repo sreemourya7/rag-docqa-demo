@@ -7,6 +7,7 @@ It supports:
 - Hybrid retrieval boost (semantic + keyword)
 - Grounded answers for common syllabus-style fields (email, phone, office, office hours, prerequisites, textbooks, late policy)
 - Evidence-first fallback with citations (avoids hallucination)
+- For conceptual questions, returns top evidence passages + citations (no free-form generation)
 - Embedding caching for faster reruns
 
 ## Folder structure
